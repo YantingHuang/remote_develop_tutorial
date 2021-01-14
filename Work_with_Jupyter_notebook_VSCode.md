@@ -61,7 +61,9 @@ You can also use vscode to remotely develop in the cluster. VSCode allows to int
 srun --pty -N 1 -n 16 --mem=32G -t 12:00:00 -p interactive-cpu bash
 ```
 Remember to note the node id you are assigned to.
+
 02. Install the `Remote-SSH` extension in VSCode.
+
 03. After you have installed the extension, you will then be able to find an green icon in the bottom left corner to establish the remote connection.
 ![](icon.png)
 
