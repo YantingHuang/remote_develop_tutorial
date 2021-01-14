@@ -1,7 +1,7 @@
 # Tutorial on remote developing in the new BIOS cluster
 #### Author: Yanting Huang (yanting.huang@emory.edu)
 #### Date: 01/13/2021
-This tutorial aims to provide a step-by-step hands on experience on remote deloping with popular develop tools: Jupyter Notebook and VSCode.
+This tutorial aims to provide a step-by-step hands on experience on remote developing with popular develop tools: Jupyter Notebook and VSCode.
 ## Work with Jupyter Notebook
 prerequisite:
 I assume that you have installed all Jupyter notebook related libraries and necessary Python/R library via Anaconda and named the environment with name `my_env`. <br>
